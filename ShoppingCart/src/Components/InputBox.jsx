@@ -13,6 +13,8 @@ const InputBox = () => {
     }
     return (
         <div>
+            <h3>Add Products...</h3>
+            <br />
             <input type="text"
                 placeholder='Type...'
                 value={inputText}
